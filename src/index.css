@@ -14,3 +14,12 @@ code {
 
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Moirai+One&family=Roboto:wght@100&family=Vina+Sans&display=swap'); /* Moirai One */
+
+
+/* Icons */
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"); /* Right Arrow - <span className="material-symbols-outlined">arrow_right_alt</span> */
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"); /* up Arrow - <span class="material-symbols-outlined">arrow_upward</span> */
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"); /* Coffee Cup - <span class="material-symbols-outlined">local_cafe</span> */
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"); /* Repeat - <span class="material-symbols-outlined">autorenew</span> */
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"); /* Skateboard - <span class="material-symbols-outlined">skateboarding</span> */
+
