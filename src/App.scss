@@ -1,49 +1,49 @@
 .hero-txt {
-    font-family: 'Moirai One', system-ui;
-    font-size: 5rem;
-    color: rgb(0, 199, 217);
-    transition: 2s ease-in-out;
+  font-family: "Moirai One", system-ui;
+  font-size: 5rem;
+  color: rgb(0, 199, 217);
+  transition: 2s ease-in-out;
 
-    .material-symbols-outlined {
-        opacity: 0;
-        transition: opacity 1s ease;
-        font-size: xx-large;
-        color: rgb(105, 63, 8);
-    }
+  .material-symbols-outlined {
+    opacity: 0;
+    transition: opacity 1s ease;
+    font-size: xx-large;
+    color: rgb(105, 63, 8);
+  }
 
-    #icon-2 {
-        transition: opacity 1.75s ease;
-        color: rgb(132, 87, 28);
-    }
+  #icon-2 {
+    transition: opacity 1.75s ease;
+    color: rgb(132, 87, 28);
+  }
 
-    #icon-3 {
-        transition: opacity 2.5s ease;
-        color: rgb(179, 132, 70);
-    }
+  #icon-3 {
+    transition: opacity 2.5s ease;
+    color: rgb(179, 132, 70);
+  }
 
-    #icon-4 {
-        transition: opacity 3.25s ease;
-        color: rgb(223, 184, 133);
-    }
+  #icon-4 {
+    transition: opacity 3.25s ease;
+    color: rgb(223, 184, 133);
+  }
 
-    #icon-5 {
-        transition: opacity 4s ease;
-        color: antiquewhite;
-    }
+  #icon-5 {
+    transition: opacity 4s ease;
+    color: antiquewhite;
+  }
 }
 
 %hero-text-hover {
-    font-size: 8rem;
-    transition: 2s ease;
-    margin-right: 25rem;
-    display: inline;
-    color: rgb(113, 68, 1);
+  font-size: 8rem;
+  transition: 2s ease;
+  margin-right: 25rem;
+  display: inline;
+  color: rgb(113, 68, 1);
 }
 
 .hero-txt:hover {
-    @extend %hero-text-hover;
+  @extend %hero-text-hover;
 
-    .material-symbols-outlined {
-        opacity: 1;
-    }
+  .material-symbols-outlined {
+    opacity: 1;
+  }
 }
