@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const dialinmain = () => {
-  return (
-    <div>dialinmain</div>
-  )
-}
+  return <div>dialinmain</div>;
+};
 
-export default dialinmain
+export default dialinmain;

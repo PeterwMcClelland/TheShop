@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const resipiesmain = () => {
-  return (
-    <div>resipiesmain</div>
-  )
-}
+  return <div>resipiesmain</div>;
+};
 
-export default resipiesmain
+export default resipiesmain;
